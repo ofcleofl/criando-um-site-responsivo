@@ -1,0 +1,21 @@
+{
+  "name": "Site",
+  "homepage": "https://github.com/ofcleofl/criando-um-site-responsivo",
+  "authors": [
+    "leonardo Felipe <ofcleofl@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
